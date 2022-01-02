@@ -7,6 +7,6 @@ This app is a tech blog that follows the MVC paradigm in its architectural struc
 Run NPM i, NPM i express, NPM i express-handlebars
 
 ## ScreenShot
-https://github.com/mjc01002/MattsTechBlog/blob/main/appscreenshot.PNG
+![Image of Website](https://github.com/mjc01002/MattsTechBlog/blob/main/appscreenshot.PNG?raw=true)
 
 ## Deployed App
