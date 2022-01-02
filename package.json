@@ -6,7 +6,8 @@
     "node": "17.1.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "install": "npm i express"
    
 },
   "dependencies": {
