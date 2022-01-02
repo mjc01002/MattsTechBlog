@@ -17,5 +17,9 @@
     "mysql2": "^2.3.3",
     "path": "^0.12.7",
     "sequelize": "^7.0.0-alpha.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjc01002/MattsTechBlog.git"
   }
 }
