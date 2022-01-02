@@ -1,11 +1,4 @@
-                   /*:root {
-                      --primary: #ccdad1;
-                      --secondary: #dce9d5;
-                      --tertiary: #788585;
-                      --light-dark: #a1a0a1;
-                      --dark: #201110;
-                      --border-radius: .3rem;
-                  }*/
+             
                   :root{
                     --primary:rgb(132,189,151);
                     --secondary: rgb(232, 139, 46);
@@ -61,7 +54,7 @@
                       font-size: 20px;
                       text-decoration: none;
                       padding: 6px 5px;
-                      width: 100%;
+                      width: 50%;
                       display: block;
                       margin: 5px 0;
                       color: white;
@@ -100,7 +93,7 @@
                   
                   
                   .app-title {
-                      font-size: 3rem;
+                      font-size: 36px;
                       background-color: var(--primary);
                       color: var(--purple);
                       padding: 0 10px;
@@ -147,7 +140,6 @@
                       color: var(--primary);
                       background-color: var(--dark);
                       padding: 1%;
-                      border-radius: calc(.18rem - 1px) calc(.18rem - 1px) 0 0;
                   }
                   
                   .card-body {
